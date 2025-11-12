@@ -121,7 +121,7 @@ Interactive slicers to filter dashboard visuals by **pizza category, size, and d
 ## 6. Screenshots / Demos
 
 ### 📊 Dashboard 1 Overview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](https://github.com/NiteshTiwari1001/Pizza_Sales_Report_Using_PowerBi/blob/main/Screenshot%20(104).png)
 
 ### 📊 Dashboard 2 Overview
 ![Dashboard Overview](images/dashboard_overview.png)
