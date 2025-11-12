@@ -1,18 +1,18 @@
 # 🍕 Pizza Sales Report Dashboard
 A comprehensive and interactive Power BI dashboard designed to analyze pizza sales performance, track revenue trends, and uncover customer and product insights to drive data-driven business decisions.
-1. Project Title / Headline
+1.   Project Title / Headline
 
 🍕 Pizza Insights: Sales Performance & Trend Analysis Dashboard
 
 An interactive Power BI dashboard built to explore and visualize pizza sales data — focusing on revenue performance, product popularity, time-based trends, and category analysis to help optimize business strategy and decision-making.
 
-2. Short Description / Purpose
+2.   Short Description / Purpose
 
 The Pizza Sales Dashboard is a data-driven Power BI report that provides a clear view of business performance across key metrics such as total revenue, total orders, average order value, and best-selling pizza categories.
 
 It is designed for business managers, marketing teams, and data analysts to monitor performance, identify sales patterns, and improve operational efficiency in the pizza business.
 
-3. Tech Stack
+3.   Tech Stack
 
 The dashboard was created using the following tools and technologies:
 
@@ -26,7 +26,7 @@ The dashboard was created using the following tools and technologies:
 
 📁 File Format – .pbix for the Power BI project and .png for dashboard previews.
 
-4. Data Source
+4.   Data Source
 
 Source: Pizza Sales Excel Dataset
 
@@ -44,7 +44,7 @@ quantity & total_price – Sales and revenue figures
 
 Dataset Size: ~4,800 sales records across 4 pizza categories and 32 unique pizza types.
 
-5. Features / Highlights
+5.   Features / Highlights
 • Business Problem
 
 The pizza store’s management struggled to understand overall sales trends and product performance.
@@ -117,5 +117,5 @@ Strategic Planning: Evaluate sales trends to support menu planning and seasonal 
 
 Customer Insight: Understand preferences in size and category for targeted marketing.
 
-6. Screenshots / Demos
-Example: 1[Dashboard Preview]()
+6.    Screenshots / Demos
+Example: 1[Dashboard Preview](https://github.com/NiteshTiwari1001/Pizza_Sales_Report_Using_PowerBi/blob/main/Screenshot%20(104).png)
